@@ -1,4 +1,4 @@
-# Valid Anagram
+# Valid Anagram 
 #
 # Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 # An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
@@ -24,7 +24,7 @@ class Solution(object):
             if my_string == my_sting2 :
                 return True 
         return False
-#     Boot force Aproche ------------>
+#    Boot force Aproche ------------>
     # if len(s) == len(t):
     #         my_string =list(t)
     #         for ch in s:
